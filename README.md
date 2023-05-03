@@ -12,21 +12,21 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
 [CV.hh.ru](https://spb.hh.ru/resume/f77987c1ff0b39db4c0039ed1f58504c496959)
 [LinkedIn](https://www.linkedin.com/in/evgeniy-astafev)
 
-## Портфолио/Portfolio
--Тестовая документация:
-   -[Чек-листы]();
-   -[Тест-кейсы]();
-   -[Mind maps]():
-      -[Форма заказа](https://drive.google.com/file/d/1hz91l6N1lZfCglRZTSUH95Y3v0H5vQxX/view?usp=sharing);
-      -[Маршруты](https://drive.google.com/file/d/1oZQrM9BMuPKHNY-vWXFPTlNg5IzT5IR2/view?usp=sharing);
-   -[Баг-репорты]();
--Коллекции в Postman:
-   -[1](https://drive.google.com/file/d/1vjZWtx0fuEs4kbFP0GuiruQ2Ybh9js9K/view?usp=share_link);
-   -[2](https://drive.google.com/file/d/1myPz_HEftBJqtrbTGrdly27NXUktNEdx/view?usp=share_link);
-   -[3](https://drive.google.com/file/d/1egxANmmGZgzw4QF90kDAzOM6YzL3U9GI/view?usp=share_link);
--SQL запросы:
-   -[такси](https://docs.google.com/spreadsheets/d/1OPMKAhf0_P4aj7zClCnMpqM7DGKLF_HCPpy_IL-_1oM/edit?usp=sharing);
-   -[доставка](https://docs.google.com/spreadsheets/d/1oxLZyNIVVY9w3JsCia401lsTviE6RxM28yGBcYAcXHI/edit?usp=sharing);
+## **Портфолио/Portfolio**
+- Тестовая документация:
+   - [Чек-листы]()
+   - [Тест-кейсы]()
+   - [Mind maps]()
+      - [Форма заказа](https://drive.google.com/file/d/1hz91l6N1lZfCglRZTSUH95Y3v0H5vQxX/view?usp=sharing)
+      - [Маршруты](https://drive.google.com/file/d/1oZQrM9BMuPKHNY-vWXFPTlNg5IzT5IR2/view?usp=sharing)
+   - [Баг-репорты]()
+- Коллекции в Postman:
+   - [1](https://drive.google.com/file/d/1vjZWtx0fuEs4kbFP0GuiruQ2Ybh9js9K/view?usp=share_link)
+   - [2](https://drive.google.com/file/d/1myPz_HEftBJqtrbTGrdly27NXUktNEdx/view?usp=share_link)
+   - [3](https://drive.google.com/file/d/1egxANmmGZgzw4QF90kDAzOM6YzL3U9GI/view?usp=share_link)
+- SQL запросы:
+   - [такси](https://docs.google.com/spreadsheets/d/1OPMKAhf0_P4aj7zClCnMpqM7DGKLF_HCPpy_IL-_1oM/edit?usp=sharing)
+   - [доставка](https://docs.google.com/spreadsheets/d/1oxLZyNIVVY9w3JsCia401lsTviE6RxM28yGBcYAcXHI/edit?usp=sharing)
 
 
 <!--
