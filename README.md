@@ -4,7 +4,7 @@
 Я проводил функциональное тестирование, кроссбраузерное тестирование, тестировал веб приложения (Charles, Postman, Apidoc, Swagger, DevTools), мобильные приложения (Android Studio), умею создавать чек-листы, тест-кейсы, баг-репорты. Я имею опыт работы над крупным учебным проектом включающим в себя front-end, back-end и работу с базами данных
 
 _I'm Evgeniy, i'm novice QA engeneer. I'm looking for a job but i'd like to test your pet-project or partisipate in  your startup too.
-I am skilled functional testing, cross-browser testing, web app testing (Charles, Postman, Apidoc, Swagger, DevTools), mobile testing (Android Studio), I can create checklists, test cases, bug reports. I have an experience of work on big study projects includes front-end, back-end and DB
+I am skilled functional testing, cross-browser testing, web app testing (Charles, Postman, Apidoc, Swagger, DevTools), mobile testing (Android Studio), I can create checklists, test cases, bug reports. I have an experience of work on big study projects includes front-end, back-end and DB_
 
 
 ## **My CV**
@@ -17,6 +17,8 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
    -[Чек-листы]()
    -[Тест-кейсы]()
    -[Mind maps]()
+      -[Форма заказа](https://drive.google.com/file/d/1hz91l6N1lZfCglRZTSUH95Y3v0H5vQxX/view?usp=sharing)
+      -[Маршруты](https://drive.google.com/file/d/1oZQrM9BMuPKHNY-vWXFPTlNg5IzT5IR2/view?usp=sharing)
    -[Баг-репорты]()
 -Коллекции в Postman
    -[1](https://drive.google.com/file/d/1vjZWtx0fuEs4kbFP0GuiruQ2Ybh9js9K/view?usp=share_link)
