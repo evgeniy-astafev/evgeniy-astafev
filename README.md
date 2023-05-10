@@ -15,7 +15,7 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
 ## **Портфолио/Portfolio**
 - Тестовая документация:
    - [Чек-листы](https://docs.google.com/spreadsheets/d/1AowrGWbRnlSoIpkP4GhU4A4y67dh0U9SkPi6vBG7jOM/edit?usp=sharing)
-   - [Тест-кейсы]()
+   - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1d_gsjgtHyw6S9f7OvW9DYv6W531Hx3IrSQVGRgrQZUw/edit?usp=sharing)
    - [Mind maps]()
       - [Форма заказа](https://drive.google.com/file/d/1hz91l6N1lZfCglRZTSUH95Y3v0H5vQxX/view?usp=sharing)
       - [Маршруты](https://drive.google.com/file/d/1oZQrM9BMuPKHNY-vWXFPTlNg5IzT5IR2/view?usp=sharing)
