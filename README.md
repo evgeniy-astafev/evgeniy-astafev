@@ -28,7 +28,10 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
    - [такси](https://docs.google.com/spreadsheets/d/1OPMKAhf0_P4aj7zClCnMpqM7DGKLF_HCPpy_IL-_1oM/edit?usp=sharing)
    - [доставка](https://docs.google.com/spreadsheets/d/1oxLZyNIVVY9w3JsCia401lsTviE6RxM28yGBcYAcXHI/edit?usp=sharing)
 
+Мои контакты
 
+[![Linkedin: evgeniy-astafev](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-astafev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eashiro)
 <!--
 **evgeniy-astafev/evgeniy-astafev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
