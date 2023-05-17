@@ -19,7 +19,7 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
    - [Mind maps]()
       - [Форма заказа](https://drive.google.com/file/d/1hz91l6N1lZfCglRZTSUH95Y3v0H5vQxX/view?usp=sharing)
       - [Маршруты](https://drive.google.com/file/d/1oZQrM9BMuPKHNY-vWXFPTlNg5IzT5IR2/view?usp=sharing)
-   - [Баг-репорты]()
+   - [Баг-репорты](https://drive.google.com/drive/folders/1-FdCQetLHHSjzD71BJyrgCfoPzVAFudQ?usp=share_link)
 - Коллекции в Postman:
    - [1](https://drive.google.com/file/d/1vjZWtx0fuEs4kbFP0GuiruQ2Ybh9js9K/view?usp=share_link)
    - [2](https://drive.google.com/file/d/1myPz_HEftBJqtrbTGrdly27NXUktNEdx/view?usp=share_link)
@@ -32,17 +32,4 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
 
 [![Linkedin: evgeniy-astafev](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-astafev)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eashiro)
-<!--
-**evgeniy-astafev/evgeniy-astafev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
