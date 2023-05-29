@@ -8,7 +8,7 @@ I am skilled functional testing, cross-browser testing, web app testing (Charles
 
 
 ## **My CV**
-- [CV.pdf](https://drive.google.com/file/d/1cusuuvjeBlUiqtZHEZrlPlQxbxI0-tkf/view?usp=share_link)
+- [CV.pdf](https://drive.google.com/file/d/1I9BL6pBrTppG4uo9Rp301NTNMwN6X45Z/view?usp=share_link)
 - [CV.hh.ru](https://spb.hh.ru/resume/f77987c1ff0b39db4c0039ed1f58504c496959)
 - [LinkedIn](https://www.linkedin.com/in/evgeniy-astafev)
 
