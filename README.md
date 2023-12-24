@@ -1,14 +1,11 @@
 ### **Привет/_Hi, there_**
    
-Меня зовут Евгений, я начинающий тестировщик. Я ищу работу, но так же буду рад поработать в Вашем стартапе или над Вашим pet-проектом.
-Я проводил функциональное тестирование, кроссбраузерное тестирование, тестировал веб приложения (Charles, Postman, Apidoc, Swagger, DevTools), мобильные приложения (Android Studio), умею создавать чек-листы, тест-кейсы, баг-репорты. Я имею опыт работы над крупным учебным проектом включающим в себя front-end, back-end и работу с базами данных
-
-_I'm Evgeniy, i'm novice QA engeneer. I'm looking for a job but i'd like to test your pet-project or partisipate in  your startup too.
-I am skilled functional testing, cross-browser testing, web app testing (Charles, Postman, Apidoc, Swagger, DevTools), mobile testing (Android Studio), I can create checklists, test cases, bug reports. I have an experience of work on big study projects includes front-end, back-end and DB_
+Меня зовут Евгений, я тестировщик. Я ищу работу, но так же буду рад поработать в Вашем стартапе или над Вашим pet-проектом.
+Я проводил функциональное тестирование, кроссбраузерное тестирование, тестировал веб приложения (Charles, Postman, Apidoc, Swagger, DevTools), мобильные приложения (Android Studio, XCode), умею создавать чек-листы, тест-кейсы, баг-репорты. Я имею опыт работы тестировщиком на проекте Simple Office - системы для управления офисным пространством, а так же над крупным учебным проектом
 
 
 ## **My CV**
-- [CV.pdf](https://drive.google.com/file/d/1rMw8jbnhSPTmgdEQTp0ghq_8Ky27wJa4/view?usp=share_link)
+- [CV.pdf](https://drive.google.com/file/d/1Ez1BsD9GTg0ObbBOlxlA51TWUwE60Omw/view?usp=sharing)
 - [CV.hh.ru](https://spb.hh.ru/resume/f77987c1ff0b39db4c0039ed1f58504c496959)
 - [LinkedIn](https://www.linkedin.com/in/evgeniy-astafev)
 
